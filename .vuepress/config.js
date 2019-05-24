@@ -1,6 +1,7 @@
 module.exports = {
     title: '前端工程师学习技能',
     description: '前端工程师学习技能',
+    base: '/web/front-end-study/',
     themeConfig: {
         nav: [
             { text: '在线教程', link: '/' },

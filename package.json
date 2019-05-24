@@ -1,0 +1,22 @@
+{
+  "name": "front-end-study",
+  "version": "1.0.0",
+  "description": "front-end-study",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nannongrousong/web.git"
+  },
+  "author": "yuanwansong@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nannongrousong/web/issues"
+  },
+  "homepage": "https://github.com/nannongrousong/web#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}

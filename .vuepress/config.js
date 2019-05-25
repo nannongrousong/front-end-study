@@ -3,6 +3,9 @@ module.exports = {
     description: '前端工程师学习技能',
     base: '/web/front-end-study/',
     dest: '.vuepress/dist/local',
+    markdown: {
+        lineNumbers: true
+    },
     themeConfig: {
         nav: [
             { text: '在线教程', link: '/' },

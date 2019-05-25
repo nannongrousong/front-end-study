@@ -1,6 +1,6 @@
 module.exports = {
     title: '前端工程师学习技能',
-    description: '前端工程师学习技能',
+    description: '前端工程师学习技能，希望可以帮到你。',
     base: '/web/front-end-study/',
     dest: '.vuepress/dist/local',
     markdown: {
@@ -16,8 +16,7 @@ module.exports = {
             { text: '界面库', link: '/view/' },
             { text: '数据流', link: '/state/' },
             { text: 'Webpack', link: '/webpack/' },
-            { text: '算法', link: '/algorithm/' },
-            { text: 'GitHub', link: 'https://google.com' },
+            { text: '算法', link: '/algorithm/' }
         ],
         sidebar: {
             '/base/': [{

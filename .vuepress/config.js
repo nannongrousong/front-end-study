@@ -7,6 +7,9 @@ module.exports = {
         lineNumbers: true
     },
     themeConfig: {
+        repo: 'https://github.com/nannongrousong/front-end-study',
+        editLinks: true,
+        editLinkText: '帮助我们改善此页面！',
         nav: [
             { text: '在线教程', link: '/' },
             { text: '前端基础', link: '/base/' },
